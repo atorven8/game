@@ -1,1 +1,2 @@
-# game
+npm install
+npm start
